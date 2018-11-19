@@ -1,0 +1,4 @@
+1520;Asif;Ahmed;01521218735;2018-11-08;Credit;Banani
+1521;Nashid;Mobtashim;01524879351;2018-11-30;Savings;Badda
+1522;Ejaz;Zaman;125462245814;2018-11-18;Current;Rampura
+1523;Jahid;Abul;0152243987;2018-11-20;Credit;Mogbazar
